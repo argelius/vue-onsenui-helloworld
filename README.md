@@ -1,6 +1,6 @@
-# vue-onsenui-navigator
+# vue-onsenui-helloworld
 
-> Vue.js Onsen UI bindings navigator example
+> Vue.js Onsen UI bindings hello world example
 
 ## Build Setup
 
